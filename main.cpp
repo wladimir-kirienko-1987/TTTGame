@@ -18,7 +18,7 @@ int main()
 	TTT_AI oTTT_AI(&TTTM);
 	TTTController TTTC(&TTTM,&oTTT_AI);
 	
-	TTTC.AI_On();
+	TTTC.AI_Off();
 	
 	TTTV.ShowBoard();
 
