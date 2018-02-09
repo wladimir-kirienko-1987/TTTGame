@@ -7,10 +7,6 @@
 
 int main()
 {
-	//unsigned long long t = 18446744073709551615;
-	//uint64 t = 18446744073709551615;
-
-
 	system ("cls");
 
 	TTTModel TTTM;
